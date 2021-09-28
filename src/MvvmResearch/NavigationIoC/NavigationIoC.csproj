@@ -47,9 +47,6 @@
     <Reference Include="GalaSoft.MvvmLight.Platform, Version=5.4.1.0, Culture=neutral, PublicKeyToken=5f873c45e98af8a1, processorArchitecture=MSIL">
       <HintPath>..\packages\MvvmLightLibs.5.4.1.1\lib\net45\GalaSoft.MvvmLight.Platform.dll</HintPath>
     </Reference>
-    <Reference Include="Intergraph.UX.WPF.Toolkit">
-      <HintPath>..\3rdParty\Intergraph\Intergraph.UX.WPF.Toolkit.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Data" />
     <Reference Include="System.Windows.Interactivity, Version=4.5.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
@@ -63,81 +60,6 @@
     <Reference Include="System.Net.Http" />
     <Reference Include="System.Xaml">
       <RequiredTargetFramework>4.0</RequiredTargetFramework>
-    </Reference>
-    <Reference Include="Telerik.Windows.Controls">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Controls.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Controls.Chart">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Controls.Chart.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Controls.Data">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Controls.Data.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Controls.Diagrams">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Controls.Diagrams.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Controls.Diagrams.Extensions">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Controls.Diagrams.Extensions.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Controls.Docking">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Controls.Docking.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Controls.FixedDocumentViewers">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Controls.FixedDocumentViewers.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Controls.GridView">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Controls.GridView.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Controls.GridView.Export">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Controls.GridView.Export.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Controls.Input">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Controls.Input.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Controls.Navigation">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Controls.Navigation.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Controls.RibbonView">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Controls.RibbonView.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Data">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Data.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Diagrams.Core">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Diagrams.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Documents">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Documents.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Documents.Core">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Documents.Core.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Documents.Fixed">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Documents.Fixed.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Documents.Flow">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Documents.Flow.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Documents.FormatProviders.Pdf">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Documents.FormatProviders.Pdf.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Documents.FormatProviders.Xaml">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Documents.FormatProviders.Xaml.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Documents.Spreadsheet">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Documents.Spreadsheet.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Documents.Spreadsheet.FormatProviders.OpenXml.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Documents.Spreadsheet.FormatProviders.Pdf.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Themes.Windows7">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Themes.Windows7.dll</HintPath>
-    </Reference>
-    <Reference Include="Telerik.Windows.Zip">
-      <HintPath>..\3rdParty\Telerik\Telerik.Windows.Zip.dll</HintPath>
     </Reference>
     <Reference Include="WindowsBase" />
     <Reference Include="PresentationCore" />
