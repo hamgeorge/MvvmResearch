@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WPFBrowserApp", "WPFBrowser
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExpanderSearch", "ExpanderSearch\ExpanderSearch.csproj", "{8BD9A2BE-BA45-4383-8CB6-12ED20704743}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ControlsResearch", "ControlsResearch\ControlsResearch.csproj", "{A924498D-F971-4572-9D6C-DFDBAAFE5C81}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CustomControls", "CustomControls", "{4FBC90D0-6C40-42F8-B7EC-E5E9B034034C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GHLibrary", "GHLibrary\GHLibrary.csproj", "{AA079677-D538-4797-B49D-C1FC2E3100BB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,9 +57,28 @@ Global
 		{8BD9A2BE-BA45-4383-8CB6-12ED20704743}.Release|Any CPU.Build.0 = Release|Any CPU
 		{8BD9A2BE-BA45-4383-8CB6-12ED20704743}.Release|x86.ActiveCfg = Release|Any CPU
 		{8BD9A2BE-BA45-4383-8CB6-12ED20704743}.Release|x86.Build.0 = Release|Any CPU
+		{A924498D-F971-4572-9D6C-DFDBAAFE5C81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A924498D-F971-4572-9D6C-DFDBAAFE5C81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A924498D-F971-4572-9D6C-DFDBAAFE5C81}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A924498D-F971-4572-9D6C-DFDBAAFE5C81}.Debug|x86.Build.0 = Debug|Any CPU
+		{A924498D-F971-4572-9D6C-DFDBAAFE5C81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A924498D-F971-4572-9D6C-DFDBAAFE5C81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A924498D-F971-4572-9D6C-DFDBAAFE5C81}.Release|x86.ActiveCfg = Release|Any CPU
+		{A924498D-F971-4572-9D6C-DFDBAAFE5C81}.Release|x86.Build.0 = Release|Any CPU
+		{AA079677-D538-4797-B49D-C1FC2E3100BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA079677-D538-4797-B49D-C1FC2E3100BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA079677-D538-4797-B49D-C1FC2E3100BB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{AA079677-D538-4797-B49D-C1FC2E3100BB}.Debug|x86.Build.0 = Debug|Any CPU
+		{AA079677-D538-4797-B49D-C1FC2E3100BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA079677-D538-4797-B49D-C1FC2E3100BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA079677-D538-4797-B49D-C1FC2E3100BB}.Release|x86.ActiveCfg = Release|Any CPU
+		{AA079677-D538-4797-B49D-C1FC2E3100BB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{AA079677-D538-4797-B49D-C1FC2E3100BB} = {4FBC90D0-6C40-42F8-B7EC-E5E9B034034C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {23B89CC3-DA23-46FA-B231-287956DAF4B8}
